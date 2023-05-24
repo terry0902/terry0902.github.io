@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: JaeHwan Shin
     - name: Date of Birth
       value: 2nd September 2000
     - name: Languages
@@ -74,3 +74,13 @@
       items: 
         - army veteran award
         - Deans List
+
+- title: Contact
+  type: time_table
+  contents:
+    - year: email
+      items: 
+        - test@gmail.com
+    - year: phone num
+      items: 
+        - 010-1234-5678
